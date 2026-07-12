@@ -104,7 +104,7 @@ Full-stack P2P skill-exchange platform
 
 ### 🔗 connect.sh
 
-<a href="https://r4hul-s3thi.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=todoist&logoColor=00FF9C"/></a>
+<a href="https://r4hul-s3thi.github.io/portfolio-rs1/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=todoist&logoColor=00FF9C"/></a>
 <a href="https://github.com/r4hul-s3thi"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF9C"/></a>
 
 <br/><br/>
