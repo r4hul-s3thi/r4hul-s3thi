@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=whoami:%20rahul&fontSize=48&fontColor=00FF9C&fontAlignY=35&desc=Cybersecurity%20Engineer%20|%20Breaking%20things%20to%20secure%20them&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=whoami:%20rahul&fontSize=48&fontColor=00FF9C&fontAlignY=35&desc=Cybersecurity%20Learner%20|%20Breaking%20things%20to%20secure%20them&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=root%40rahul%3A~%24+whoami;final-year+B.Tech+CSE+(IoT+%26+Cybersecurity);Infosec+Content+Head+%40+Cybersecurity+Club;building+D3C0Y+%7C+SIMON+%7C+PhishGuard+%7C+SkillBridge;HackerOne+Hall+of+Fame+%F0%9F%8F%86" />
 
@@ -20,7 +20,7 @@
 
 ```yaml
 name: Rahul
-role: Cybersecurity Engineer / AppSec Enthusiast
+role: Cybersecurity learner / AppSec Enthusiast
 education: B.Tech CSE (IoT & Cybersecurity), Final Year @ CVRGU, Bhubaneswar
 current_role: Infosec Content Head — University Cybersecurity Club
 focus:
